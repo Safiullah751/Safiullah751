@@ -1,5 +1,5 @@
 <div align='center'>
-  <img  src="./icon.png" align='center' style=" hight:160px; width:400px" />
+  <img  src="./icon.png" align='center' style=" hight:260px; width:600px" />
    <h3 style="color:green;">Safiullah Karimi</h3><hr>
 </div>
 
